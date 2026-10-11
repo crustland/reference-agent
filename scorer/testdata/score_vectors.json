@@ -1,0 +1,3158 @@
+{
+ "plays": [
+  {
+   "name": "high card",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 7
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 3
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "high_card",
+   "power": 12,
+   "edge": 1,
+   "damage": 12
+  },
+  {
+   "name": "pair",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 4
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 4
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 9
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "pair",
+   "power": 18,
+   "edge": 2,
+   "damage": 36
+  },
+  {
+   "name": "two pair",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 4
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 4
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 7
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "rime",
+     "rank": 7
+    },
+    {
+     "id": "ve",
+     "name": "ve",
+     "element": "root",
+     "rank": 2
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "two_pair",
+   "power": 42,
+   "edge": 2,
+   "damage": 84
+  },
+  {
+   "name": "triple",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 6
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 6
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 6
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "root",
+     "rank": 1
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "triple",
+   "power": 48,
+   "edge": 3,
+   "damage": 144
+  },
+  {
+   "name": "run",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 3
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 4
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 5
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "rime",
+     "rank": 6
+    },
+    {
+     "id": "ve",
+     "name": "ve",
+     "element": "root",
+     "rank": 7
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "run",
+   "power": 55,
+   "edge": 4,
+   "damage": 220
+  },
+  {
+   "name": "bond",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 1
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "root",
+     "rank": 3
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "root",
+     "rank": 7
+    },
+    {
+     "id": "ve",
+     "name": "ve",
+     "element": "root",
+     "rank": 9
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "bond",
+   "power": 60,
+   "edge": 4,
+   "damage": 240
+  },
+  {
+   "name": "bond with a ripe card",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 1
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ripe",
+     "rank": 3
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "root",
+     "rank": 7
+    },
+    {
+     "id": "ve",
+     "name": "ve",
+     "element": "root",
+     "rank": 9
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "bond",
+   "power": 60,
+   "edge": 4,
+   "damage": 240
+  },
+  {
+   "name": "full kit",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 8
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 8
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 8
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "rime",
+     "rank": 2
+    },
+    {
+     "id": "ve",
+     "name": "ve",
+     "element": "root",
+     "rank": 2
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "full_kit",
+   "power": 68,
+   "edge": 4,
+   "damage": 272
+  },
+  {
+   "name": "quad",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 5
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 5
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "rime",
+     "rank": 5
+    },
+    {
+     "id": "ve",
+     "name": "ve",
+     "element": "root",
+     "rank": 9
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "quad",
+   "power": 80,
+   "edge": 7,
+   "damage": 560
+  },
+  {
+   "name": "true run",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ash",
+     "rank": 2
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 3
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "ash",
+     "rank": 4
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "ripe",
+     "rank": 5
+    },
+    {
+     "id": "ve",
+     "name": "ve",
+     "element": "ash",
+     "rank": 6
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "true_run",
+   "power": 120,
+   "edge": 8,
+   "damage": 960
+  },
+  {
+   "name": "a Guard card played as an attack",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ash",
+     "rank": 9,
+     "guard": true
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "root",
+     "rank": 2
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "high_card",
+   "power": 14,
+   "edge": 1,
+   "damage": 14
+  },
+  {
+   "name": "weakness doubles the weak element but not ripe",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ember",
+     "rank": 6
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ripe",
+     "rank": 6
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "root",
+     "rank": 6
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "weakness": "ember"
+   },
+   "form": "triple",
+   "power": 54,
+   "edge": 3,
+   "damage": 162
+  },
+  {
+   "name": "worked example: triple of nines",
+   "cards": [
+    {
+     "id": "cleave",
+     "name": "Cleave",
+     "element": "ash",
+     "rank": 9,
+     "guard": true
+    },
+    {
+     "id": "ember_edge",
+     "name": "Ember Edge",
+     "element": "ember",
+     "rank": 9
+    },
+    {
+     "id": "rot_spark",
+     "name": "Rot Spark",
+     "element": "ripe",
+     "rank": 9
+    }
+   ],
+   "charms": [
+    {
+     "id": "boar_tusk",
+     "name": "Boar Tusk",
+     "text": "+2 Edge if two scored cards share a rank.",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "group_min",
+         "value": 2
+        }
+       ],
+       "effect": "add_edge",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "mossback_ring",
+     "name": "Mossback Ring",
+     "text": "Root cards score +2 rank in a forest.",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_element",
+         "element": "root"
+        },
+        {
+         "kind": "terrain",
+         "text": "forest"
+        }
+       ],
+       "effect": "add_rank",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "rot_lantern",
+     "name": "Rot Lantern",
+     "text": "Ripe cards score x2 rank.",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_ripe"
+        }
+       ],
+       "effect": "mul_rank",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "tally_stick",
+     "name": "Tally Stick",
+     "text": "+1 Edge per redraw left.",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "add_edge",
+       "amount": 1,
+       "per": "redraw_left"
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "terrain": "forest",
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "weakness": "ember"
+   },
+   "form": "triple",
+   "power": 75,
+   "edge": 7,
+   "damage": 525
+  },
+  {
+   "name": "worked example: bond of four Root and Rot Spark",
+   "cards": [
+    {
+     "id": "thorn_dart_5",
+     "name": "Thorn Dart",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "thorn_dart_7",
+     "name": "Thorn Dart",
+     "element": "root",
+     "rank": 7
+    },
+    {
+     "id": "moss_tonic",
+     "name": "Moss Tonic",
+     "element": "root",
+     "rank": 8
+    },
+    {
+     "id": "bramble_lash",
+     "name": "Bramble Lash",
+     "element": "root",
+     "rank": 4
+    },
+    {
+     "id": "rot_spark",
+     "name": "Rot Spark",
+     "element": "ripe",
+     "rank": 9
+    }
+   ],
+   "charms": [
+    {
+     "id": "boar_tusk",
+     "name": "Boar Tusk",
+     "text": "+2 Edge if two scored cards share a rank.",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "group_min",
+         "value": 2
+        }
+       ],
+       "effect": "add_edge",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "mossback_ring",
+     "name": "Mossback Ring",
+     "text": "Root cards score +2 rank in a forest.",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_element",
+         "element": "root"
+        },
+        {
+         "kind": "terrain",
+         "text": "forest"
+        }
+       ],
+       "effect": "add_rank",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "rot_lantern",
+     "name": "Rot Lantern",
+     "text": "Ripe cards score x2 rank.",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_ripe"
+        }
+       ],
+       "effect": "mul_rank",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "tally_stick",
+     "name": "Tally Stick",
+     "text": "+1 Edge per redraw left.",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "add_edge",
+       "amount": 1,
+       "per": "redraw_left"
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "terrain": "forest",
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "weakness": "ember"
+   },
+   "form": "bond",
+   "power": 85,
+   "edge": 6,
+   "damage": 510
+  },
+  {
+   "name": "worked example: the Mossback Ring needs a forest",
+   "cards": [
+    {
+     "id": "thorn_dart_5",
+     "name": "Thorn Dart",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "thorn_dart_7",
+     "name": "Thorn Dart",
+     "element": "root",
+     "rank": 7
+    },
+    {
+     "id": "moss_tonic",
+     "name": "Moss Tonic",
+     "element": "root",
+     "rank": 8
+    },
+    {
+     "id": "bramble_lash",
+     "name": "Bramble Lash",
+     "element": "root",
+     "rank": 4
+    },
+    {
+     "id": "rot_spark",
+     "name": "Rot Spark",
+     "element": "ripe",
+     "rank": 9
+    }
+   ],
+   "charms": [
+    {
+     "id": "boar_tusk",
+     "name": "Boar Tusk",
+     "text": "+2 Edge if two scored cards share a rank.",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "group_min",
+         "value": 2
+        }
+       ],
+       "effect": "add_edge",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "mossback_ring",
+     "name": "Mossback Ring",
+     "text": "Root cards score +2 rank in a forest.",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_element",
+         "element": "root"
+        },
+        {
+         "kind": "terrain",
+         "text": "forest"
+        }
+       ],
+       "effect": "add_rank",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "rot_lantern",
+     "name": "Rot Lantern",
+     "text": "Ripe cards score x2 rank.",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_ripe"
+        }
+       ],
+       "effect": "mul_rank",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "tally_stick",
+     "name": "Tally Stick",
+     "text": "+1 Edge per redraw left.",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "add_edge",
+       "amount": 1,
+       "per": "redraw_left"
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "terrain": "plains",
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "weakness": "ember"
+   },
+   "form": "bond",
+   "power": 77,
+   "edge": 6,
+   "damage": 462
+  },
+  {
+   "name": "tally stick counts redraws left",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 5
+    }
+   ],
+   "charms": [
+    {
+     "id": "tally_stick",
+     "name": "Tally Stick",
+     "text": "+1 Edge per redraw left.",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "add_edge",
+       "amount": 1,
+       "per": "redraw_left"
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 0,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "pair",
+   "power": 20,
+   "edge": 2,
+   "damage": 40
+  },
+  {
+   "name": "add_power per scored card",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 5
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 5
+    }
+   ],
+   "charms": [
+    {
+     "id": "p",
+     "name": "p",
+     "text": "p",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "add_power",
+       "amount": 2,
+       "per": "scored_card"
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "triple",
+   "power": 51,
+   "edge": 3,
+   "damage": 153
+  },
+  {
+   "name": "add_edge when the form is a run",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 3
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 4
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 5
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "rime",
+     "rank": 6
+    },
+    {
+     "id": "ve",
+     "name": "ve",
+     "element": "root",
+     "rank": 7
+    }
+   ],
+   "charms": [
+    {
+     "id": "e",
+     "name": "e",
+     "text": "e",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "form_is",
+         "text": "run"
+        }
+       ],
+       "effect": "add_edge",
+       "amount": 3
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "run",
+   "power": 55,
+   "edge": 7,
+   "damage": 385
+  },
+  {
+   "name": "mul_edge twice, product capped at x4",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 5
+    }
+   ],
+   "charms": [
+    {
+     "id": "m1",
+     "name": "m1",
+     "text": "m1",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "mul_edge",
+       "amount": 3
+      }
+     ]
+    },
+    {
+     "id": "m2",
+     "name": "m2",
+     "text": "m2",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "mul_edge",
+       "amount": 3
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "pair",
+   "power": 20,
+   "edge": 8,
+   "damage": 160
+  },
+  {
+   "name": "add_edge is applied before the x-Edge product",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 5
+    }
+   ],
+   "charms": [
+    {
+     "id": "m",
+     "name": "m",
+     "text": "m",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "mul_edge",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "a",
+     "name": "a",
+     "text": "a",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "add_edge",
+       "amount": 1
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "pair",
+   "power": 20,
+   "edge": 6,
+   "damage": 120
+  },
+  {
+   "name": "add_rank to cards of an element in a terrain",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 4
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 4
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "root",
+     "rank": 2
+    }
+   ],
+   "charms": [
+    {
+     "id": "r",
+     "name": "r",
+     "text": "r",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_element",
+         "element": "root"
+        },
+        {
+         "kind": "terrain",
+         "text": "forest"
+        }
+       ],
+       "effect": "add_rank",
+       "amount": 3
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "terrain": "forest",
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "pair",
+   "power": 21,
+   "edge": 2,
+   "damage": 42
+  },
+  {
+   "name": "mul_rank on ripe cards, capped at x4",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ripe",
+     "rank": 3
+    }
+   ],
+   "charms": [
+    {
+     "id": "l",
+     "name": "l",
+     "text": "l",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_ripe"
+        }
+       ],
+       "effect": "mul_rank",
+       "amount": 3
+      }
+     ]
+    },
+    {
+     "id": "l2",
+     "name": "l2",
+     "text": "l2",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_ripe"
+        }
+       ],
+       "effect": "mul_rank",
+       "amount": 3
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "high_card",
+   "power": 17,
+   "edge": 1,
+   "damage": 17
+  },
+  {
+   "name": "set_element then a card-element condition sees it",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "mire",
+     "rank": 5
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 5
+    }
+   ],
+   "charms": [
+    {
+     "id": "s",
+     "name": "s",
+     "text": "s",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_element",
+         "element": "mire"
+        }
+       ],
+       "effect": "set_element",
+       "element": "root"
+      }
+     ]
+    },
+    {
+     "id": "t",
+     "name": "t",
+     "text": "t",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_element",
+         "element": "root"
+        }
+       ],
+       "effect": "add_rank",
+       "amount": 10
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "pair",
+   "power": 30,
+   "edge": 2,
+   "damage": 60
+  },
+  {
+   "name": "card rank conditions use the rank so far",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 5
+    }
+   ],
+   "charms": [
+    {
+     "id": "a",
+     "name": "a",
+     "text": "a",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_rank_max",
+         "value": 5
+        }
+       ],
+       "effect": "add_rank",
+       "amount": 3
+      }
+     ]
+    },
+    {
+     "id": "b",
+     "name": "b",
+     "text": "b",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_rank_min",
+         "value": 8
+        }
+       ],
+       "effect": "add_power",
+       "amount": 100
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "pair",
+   "power": 226,
+   "edge": 2,
+   "damage": 452
+  },
+  {
+   "name": "card_guard condition",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ash",
+     "rank": 5,
+     "guard": true
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "root",
+     "rank": 5
+    }
+   ],
+   "charms": [
+    {
+     "id": "g",
+     "name": "g",
+     "text": "g",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_guard"
+        }
+       ],
+       "effect": "add_rank",
+       "amount": 4
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "pair",
+   "power": 24,
+   "edge": 2,
+   "damage": 48
+  },
+  {
+   "name": "group, cards and first-play conditions",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 5
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 2
+    }
+   ],
+   "charms": [
+    {
+     "id": "c",
+     "name": "c",
+     "text": "c",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "group_min",
+         "value": 2
+        },
+        {
+         "kind": "cards_min",
+         "value": 3
+        },
+        {
+         "kind": "first_play"
+        }
+       ],
+       "effect": "add_edge",
+       "amount": 5
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "form": "pair",
+   "power": 20,
+   "edge": 7,
+   "damage": 140
+  },
+  {
+   "name": "play-number and redraws conditions",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 5
+    }
+   ],
+   "charms": [
+    {
+     "id": "n",
+     "name": "n",
+     "text": "n",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "play_number",
+         "value": 3
+        },
+        {
+         "kind": "redraws_min",
+         "value": 1
+        }
+       ],
+       "effect": "add_power",
+       "amount": 40
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 1,
+    "play_number": 3,
+    "hp_percent": 100
+   },
+   "form": "high_card",
+   "power": 50,
+   "edge": 1,
+   "damage": 50
+  },
+  {
+   "name": "hp, held guard and play-element conditions",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "root",
+     "rank": 6
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "ash",
+     "rank": 1
+    }
+   ],
+   "held": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ash",
+     "rank": 4,
+     "guard": true
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "rime",
+     "rank": 3,
+     "guard": true
+    }
+   ],
+   "charms": [
+    {
+     "id": "h",
+     "name": "h",
+     "text": "h",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "hp_below_percent",
+         "value": 50
+        },
+        {
+         "kind": "held_guard_min",
+         "value": 2
+        },
+        {
+         "kind": "play_element_min",
+         "element": "root",
+         "value": 2
+        }
+       ],
+       "effect": "add_power",
+       "amount": 25
+      }
+     ]
+    },
+    {
+     "id": "k",
+     "name": "k",
+     "text": "k",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "add_edge",
+       "amount": 1,
+       "per": "held_guard"
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 30
+   },
+   "form": "high_card",
+   "power": 11,
+   "edge": 3,
+   "damage": 33
+  },
+  {
+   "name": "creature: Bark halves a high card",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 7
+    }
+   ],
+   "mob": [
+    {
+     "id": "bark",
+     "name": "bark",
+     "text": "bark",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "form_below",
+         "text": "two_pair"
+        }
+       ],
+       "effect": "reduce_damage",
+       "amount": 50
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 1
+   },
+   "form": "high_card",
+   "power": 12,
+   "edge": 1,
+   "damage": 6
+  },
+  {
+   "name": "creature: Bark leaves a two pair alone",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 4
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 4
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 7
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "rime",
+     "rank": 7
+    }
+   ],
+   "mob": [
+    {
+     "id": "bark",
+     "name": "bark",
+     "text": "bark",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "form_below",
+         "text": "two_pair"
+        }
+       ],
+       "effect": "reduce_damage",
+       "amount": 50
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 1
+   },
+   "form": "two_pair",
+   "power": 42,
+   "edge": 2,
+   "damage": 84
+  },
+  {
+   "name": "creature: Stasis caps Edge at 3",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 1
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "root",
+     "rank": 3
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "root",
+     "rank": 7
+    },
+    {
+     "id": "ve",
+     "name": "ve",
+     "element": "root",
+     "rank": 9
+    }
+   ],
+   "mob": [
+    {
+     "id": "stasis",
+     "name": "stasis",
+     "text": "stasis",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "cap_edge",
+       "amount": 3
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 1
+   },
+   "form": "bond",
+   "power": 60,
+   "edge": 3,
+   "damage": 180
+  },
+  {
+   "name": "creature: Anvil stops everything below a triple",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 9
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 9
+    }
+   ],
+   "mob": [
+    {
+     "id": "anvil",
+     "name": "anvil",
+     "text": "anvil",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "form_below",
+         "text": "triple"
+        }
+       ],
+       "effect": "reduce_damage",
+       "amount": 100
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 1
+   },
+   "form": "pair",
+   "power": 28,
+   "edge": 2,
+   "damage": 0
+  },
+  {
+   "name": "creature: Brace blocks 40 on a third round",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 9
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 9
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 9
+    }
+   ],
+   "mob": [
+    {
+     "id": "brace",
+     "name": "brace",
+     "text": "brace",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "round_every",
+         "value": 3
+        }
+       ],
+       "effect": "mob_block",
+       "amount": 40
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 3
+   },
+   "form": "triple",
+   "power": 57,
+   "edge": 3,
+   "damage": 131
+  },
+  {
+   "name": "creature: Brace does nothing on a second round",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 9
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 9
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 9
+    }
+   ],
+   "mob": [
+    {
+     "id": "brace",
+     "name": "brace",
+     "text": "brace",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "round_every",
+         "value": 3
+        }
+       ],
+       "effect": "mob_block",
+       "amount": 40
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 2
+   },
+   "form": "triple",
+   "power": 57,
+   "edge": 3,
+   "damage": 171
+  },
+  {
+   "name": "creature: block never takes damage below zero",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 2
+    }
+   ],
+   "mob": [
+    {
+     "id": "wall",
+     "name": "wall",
+     "text": "wall",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "mob_block",
+       "amount": 500
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 1
+   },
+   "form": "high_card",
+   "power": 7,
+   "edge": 1,
+   "damage": 0
+  },
+  {
+   "name": "creature: Tally scores a repeated form as nothing",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 6
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 6
+    }
+   ],
+   "mob": [
+    {
+     "id": "tally",
+     "name": "tally",
+     "text": "tally",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "form_repeat"
+        }
+       ],
+       "effect": "reduce_damage",
+       "amount": 100
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 2,
+    "hp_percent": 100,
+    "round": 2,
+    "forms_played": [
+     "pair"
+    ],
+    "last_damage": 20
+   },
+   "form": "pair",
+   "power": 22,
+   "edge": 2,
+   "damage": 0
+  },
+  {
+   "name": "creature: Tally lets a new form score",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 6
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 6
+    }
+   ],
+   "mob": [
+    {
+     "id": "tally",
+     "name": "tally",
+     "text": "tally",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "form_repeat"
+        }
+       ],
+       "effect": "reduce_damage",
+       "amount": 100
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 2,
+    "hp_percent": 100,
+    "round": 2,
+    "forms_played": [
+     "high_card"
+    ],
+    "last_damage": 20
+   },
+   "form": "pair",
+   "power": 22,
+   "edge": 2,
+   "damage": 44
+  },
+  {
+   "name": "creature: Catalogue resists only the first form played again",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 6
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 6
+    }
+   ],
+   "mob": [
+    {
+     "id": "catalogue",
+     "name": "catalogue",
+     "text": "catalogue",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "form_repeat_first"
+        }
+       ],
+       "effect": "reduce_damage",
+       "amount": 50
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 3,
+    "hp_percent": 100,
+    "round": 3,
+    "forms_played": [
+     "pair",
+     "high_card"
+    ],
+    "last_damage": 20
+   },
+   "form": "pair",
+   "power": 22,
+   "edge": 2,
+   "damage": 22
+  },
+  {
+   "name": "creature: Catalogue ignores a later form played again",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 6
+    }
+   ],
+   "mob": [
+    {
+     "id": "catalogue",
+     "name": "catalogue",
+     "text": "catalogue",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "form_repeat_first"
+        }
+       ],
+       "effect": "reduce_damage",
+       "amount": 50
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 3,
+    "hp_percent": 100,
+    "round": 3,
+    "forms_played": [
+     "pair",
+     "high_card"
+    ],
+    "last_damage": 20
+   },
+   "form": "high_card",
+   "power": 11,
+   "edge": 1,
+   "damage": 11
+  },
+  {
+   "name": "creature: Pressure stops a play that does not beat the last",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 3
+    }
+   ],
+   "mob": [
+    {
+     "id": "pressure",
+     "name": "pressure",
+     "text": "pressure",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "not_beating_last"
+        }
+       ],
+       "effect": "reduce_damage",
+       "amount": 100
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 2,
+    "hp_percent": 100,
+    "round": 2,
+    "last_damage": 50
+   },
+   "form": "high_card",
+   "power": 8,
+   "edge": 1,
+   "damage": 0
+  },
+  {
+   "name": "creature: Pressure lets a stronger play through",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 9
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 9
+    }
+   ],
+   "mob": [
+    {
+     "id": "pressure",
+     "name": "pressure",
+     "text": "pressure",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "not_beating_last"
+        }
+       ],
+       "effect": "reduce_damage",
+       "amount": 100
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 2,
+    "hp_percent": 100,
+    "round": 2,
+    "last_damage": 20
+   },
+   "form": "pair",
+   "power": 28,
+   "edge": 2,
+   "damage": 56
+  },
+  {
+   "name": "creature: Index blocks the best form in hand",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 7
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 7
+    }
+   ],
+   "mob": [
+    {
+     "id": "index",
+     "name": "index",
+     "text": "index",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "form_is_best"
+        }
+       ],
+       "effect": "reduce_damage",
+       "amount": 100
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 1,
+    "best_form": "pair"
+   },
+   "form": "pair",
+   "power": 24,
+   "edge": 2,
+   "damage": 0
+  },
+  {
+   "name": "creature: cards_max holds for a one-card play",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 4
+    }
+   ],
+   "mob": [
+    {
+     "id": "limit",
+     "name": "limit",
+     "text": "limit",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "cards_max",
+         "value": 2
+        }
+       ],
+       "effect": "mob_block",
+       "amount": 3
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 1
+   },
+   "form": "high_card",
+   "power": 9,
+   "edge": 1,
+   "damage": 6
+  },
+  {
+   "name": "creature: Stoke adds rank to Ember cards and costs HP for each",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ember",
+     "rank": 5
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ember",
+     "rank": 5
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "root",
+     "rank": 5
+    }
+   ],
+   "mob": [
+    {
+     "id": "stoke",
+     "name": "stoke",
+     "text": "stoke",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_element",
+         "element": "ember"
+        }
+       ],
+       "effect": "add_rank",
+       "amount": 2
+      },
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_element",
+         "element": "ember"
+        }
+       ],
+       "effect": "self_damage",
+       "amount": 2
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 1
+   },
+   "form": "triple",
+   "power": 49,
+   "edge": 3,
+   "damage": 147,
+   "self_damage": 4
+  },
+  {
+   "name": "creature: a Keeper's rule runs after the trait",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 1
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "root",
+     "rank": 3
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "root",
+     "rank": 7
+    },
+    {
+     "id": "ve",
+     "name": "ve",
+     "element": "root",
+     "rank": 9
+    }
+   ],
+   "mob": [
+    {
+     "id": "trait",
+     "name": "trait",
+     "text": "trait",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "cap_edge",
+       "amount": 3
+      }
+     ]
+    },
+    {
+     "id": "keeper",
+     "name": "keeper",
+     "text": "keeper",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "form_is",
+         "text": "bond"
+        }
+       ],
+       "effect": "reduce_damage",
+       "amount": 50
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 4
+   },
+   "form": "bond",
+   "power": 60,
+   "edge": 3,
+   "damage": 90
+  },
+  {
+   "name": "creature: round_min counts the round being played",
+   "cards": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 4
+    }
+   ],
+   "mob": [
+    {
+     "id": "late",
+     "name": "late",
+     "text": "late",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "round_min",
+         "value": 4
+        }
+       ],
+       "effect": "mob_block",
+       "amount": 2
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 4
+   },
+   "form": "high_card",
+   "power": 9,
+   "edge": 1,
+   "damage": 7
+  }
+ ],
+ "strikes": [
+  {
+   "name": "no Guard in hand",
+   "held": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 3
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "strike": 14,
+   "block": 0,
+   "taken": 14,
+   "damage_after_reduction": 14
+  },
+  {
+   "name": "two held Guard cards block their ranks",
+   "held": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ash",
+     "rank": 9,
+     "guard": true
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 6,
+     "guard": true
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "root",
+     "rank": 2
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "strike": 14,
+   "block": 15,
+   "taken": 0,
+   "damage_after_reduction": 14
+  },
+  {
+   "name": "block beyond the strike takes nothing",
+   "held": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ash",
+     "rank": 9,
+     "guard": true
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 6,
+     "guard": true
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "strike": 10,
+   "block": 15,
+   "taken": 0,
+   "damage_after_reduction": 10
+  },
+  {
+   "name": "card_held, block add and mul",
+   "held": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ash",
+     "rank": 4,
+     "guard": true
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 3,
+     "guard": true
+    }
+   ],
+   "charms": [
+    {
+     "id": "hold",
+     "name": "hold",
+     "text": "hold",
+     "rules": [
+      {
+       "trigger": "card_held",
+       "effect": "add_block",
+       "amount": 1
+      }
+     ]
+    },
+    {
+     "id": "plus",
+     "name": "plus",
+     "text": "plus",
+     "rules": [
+      {
+       "trigger": "block",
+       "effect": "add_block",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "dbl",
+     "name": "dbl",
+     "text": "dbl",
+     "rules": [
+      {
+       "trigger": "block",
+       "effect": "mul_block",
+       "amount": 2
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "strike": 30,
+   "block": 22,
+   "taken": 8,
+   "damage_after_reduction": 30
+  },
+  {
+   "name": "block multiplier only below 20 percent HP",
+   "held": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ash",
+     "rank": 5,
+     "guard": true
+    }
+   ],
+   "charms": [
+    {
+     "id": "last_stand",
+     "name": "last_stand",
+     "text": "last_stand",
+     "rules": [
+      {
+       "trigger": "block",
+       "when": [
+        {
+         "kind": "hp_below_percent",
+         "value": 20
+        }
+       ],
+       "effect": "mul_block",
+       "amount": 2
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 15
+   },
+   "strike": 20,
+   "block": 10,
+   "taken": 10,
+   "damage_after_reduction": 20
+  },
+  {
+   "name": "strike reduction applies before block",
+   "held": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ash",
+     "rank": 4,
+     "guard": true
+    }
+   ],
+   "charms": [
+    {
+     "id": "plate",
+     "name": "plate",
+     "text": "plate",
+     "rules": [
+      {
+       "trigger": "strike",
+       "effect": "reduce_strike",
+       "amount": 25
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "strike": 40,
+   "block": 4,
+   "taken": 26,
+   "damage_after_reduction": 30
+  },
+  {
+   "name": "creature: Slam ignores Guard of rank 4 or lower",
+   "held": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ash",
+     "rank": 3,
+     "guard": true
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 4,
+     "guard": true
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "ash",
+     "rank": 6,
+     "guard": true
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "root",
+     "rank": 2
+    }
+   ],
+   "mob": [
+    {
+     "id": "slam",
+     "name": "slam",
+     "text": "slam",
+     "rules": [
+      {
+       "trigger": "strike",
+       "effect": "ignore_guard",
+       "amount": 4
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "strike": 30,
+   "block": 6,
+   "taken": 24,
+   "damage_after_reduction": 30
+  },
+  {
+   "name": "creature: Slam leaves a held Guard charm rule to the cards that still block",
+   "held": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "ash",
+     "rank": 3,
+     "guard": true
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 6,
+     "guard": true
+    }
+   ],
+   "charms": [
+    {
+     "id": "hold",
+     "name": "hold",
+     "text": "hold",
+     "rules": [
+      {
+       "trigger": "card_held",
+       "effect": "add_block",
+       "amount": 2
+      }
+     ]
+    }
+   ],
+   "mob": [
+    {
+     "id": "slam",
+     "name": "slam",
+     "text": "slam",
+     "rules": [
+      {
+       "trigger": "strike",
+       "effect": "ignore_guard",
+       "amount": 4
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100
+   },
+   "strike": 30,
+   "block": 8,
+   "taken": 22,
+   "damage_after_reduction": 30
+  }
+ ],
+ "bests": [
+  {
+   "name": "best: the worked example's hand",
+   "hand": [
+    {
+     "id": "cleave",
+     "name": "Cleave",
+     "element": "ash",
+     "rank": 9,
+     "guard": true
+    },
+    {
+     "id": "ember_edge",
+     "name": "Ember Edge",
+     "element": "ember",
+     "rank": 9
+    },
+    {
+     "id": "brace",
+     "name": "Brace",
+     "element": "ash",
+     "rank": 6,
+     "guard": true
+    },
+    {
+     "id": "thorn_dart_5",
+     "name": "Thorn Dart",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "thorn_dart_7",
+     "name": "Thorn Dart",
+     "element": "root",
+     "rank": 7
+    },
+    {
+     "id": "moss_tonic",
+     "name": "Moss Tonic",
+     "element": "root",
+     "rank": 8
+    },
+    {
+     "id": "bramble_lash",
+     "name": "Bramble Lash",
+     "element": "root",
+     "rank": 4
+    },
+    {
+     "id": "rot_spark",
+     "name": "Rot Spark",
+     "element": "ripe",
+     "rank": 9
+    }
+   ],
+   "charms": [
+    {
+     "id": "boar_tusk",
+     "name": "Boar Tusk",
+     "text": "+2 Edge if two scored cards share a rank.",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "group_min",
+         "value": 2
+        }
+       ],
+       "effect": "add_edge",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "mossback_ring",
+     "name": "Mossback Ring",
+     "text": "Root cards score +2 rank in a forest.",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_element",
+         "element": "root"
+        },
+        {
+         "kind": "terrain",
+         "text": "forest"
+        }
+       ],
+       "effect": "add_rank",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "rot_lantern",
+     "name": "Rot Lantern",
+     "text": "Ripe cards score x2 rank.",
+     "rules": [
+      {
+       "trigger": "card_scored",
+       "when": [
+        {
+         "kind": "card_ripe"
+        }
+       ],
+       "effect": "mul_rank",
+       "amount": 2
+      }
+     ]
+    },
+    {
+     "id": "tally_stick",
+     "name": "Tally Stick",
+     "text": "+1 Edge per redraw left.",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "effect": "add_edge",
+       "amount": 1,
+       "per": "redraw_left"
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "terrain": "forest",
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "weakness": "ember"
+   },
+   "ids": [
+    "cleave",
+    "ember_edge",
+    "rot_spark"
+   ],
+   "form": "triple",
+   "damage": 525
+  },
+  {
+   "name": "best: a plain hand",
+   "hand": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 7
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 7
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 3
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "rime",
+     "rank": 9
+    },
+    {
+     "id": "ve",
+     "name": "ve",
+     "element": "root",
+     "rank": 2
+    },
+    {
+     "id": "vf",
+     "name": "vf",
+     "element": "ash",
+     "rank": 5
+    },
+    {
+     "id": "vg",
+     "name": "vg",
+     "element": "mire",
+     "rank": 5
+    },
+    {
+     "id": "vh",
+     "name": "vh",
+     "element": "rime",
+     "rank": 5
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 1
+   },
+   "ids": [
+    "va",
+    "vb",
+    "vf",
+    "vg",
+    "vh"
+   ],
+   "form": "full_kit",
+   "damage": 276
+  },
+  {
+   "name": "best: ties go to the play with fewer cards",
+   "hand": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 5
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 5
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 1
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 1
+   },
+   "ids": [
+    "va",
+    "vb"
+   ],
+   "form": "pair",
+   "damage": 40
+  },
+  {
+   "name": "best: an Anvil makes only triples count",
+   "hand": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 9
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 9
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 4
+    },
+    {
+     "id": "vd",
+     "name": "vd",
+     "element": "rime",
+     "rank": 6
+    },
+    {
+     "id": "ve",
+     "name": "ve",
+     "element": "root",
+     "rank": 2
+    }
+   ],
+   "mob": [
+    {
+     "id": "anvil",
+     "name": "anvil",
+     "text": "anvil",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "form_below",
+         "text": "triple"
+        }
+       ],
+       "effect": "reduce_damage",
+       "amount": 100
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 1
+   },
+   "ids": [
+    "va"
+   ],
+   "form": "high_card",
+   "damage": 0
+  },
+  {
+   "name": "best: a hand the Anvil leaves no play in",
+   "hand": [
+    {
+     "id": "va",
+     "name": "va",
+     "element": "root",
+     "rank": 9
+    },
+    {
+     "id": "vb",
+     "name": "vb",
+     "element": "ash",
+     "rank": 8
+    },
+    {
+     "id": "vc",
+     "name": "vc",
+     "element": "mire",
+     "rank": 4
+    }
+   ],
+   "mob": [
+    {
+     "id": "anvil",
+     "name": "anvil",
+     "text": "anvil",
+     "rules": [
+      {
+       "trigger": "form_scored",
+       "when": [
+        {
+         "kind": "form_below",
+         "text": "triple"
+        }
+       ],
+       "effect": "reduce_damage",
+       "amount": 100
+      }
+     ]
+    }
+   ],
+   "ctx": {
+    "redraws_left": 2,
+    "play_number": 1,
+    "hp_percent": 100,
+    "round": 1
+   },
+   "ids": [
+    "va"
+   ],
+   "form": "high_card",
+   "damage": 0
+  }
+ ]
+}
